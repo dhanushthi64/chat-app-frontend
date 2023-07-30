@@ -1,0 +1,17 @@
+.message{
+    display: flex;
+    gap: 10px;
+    .messageinfo{
+        img{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+        }
+    }
+    .messagecontent{
+        img{
+            width: 50%;
+        }
+    }
+}
